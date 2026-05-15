@@ -2,7 +2,7 @@
 
 A Power BI dashboard built during my co-op at Creation Technologies to give program managers real-time visibility into financial and operational performance across the business.
 
-> **[▶ Watch the demo]((https://drive.google.com/file/d/1PFdTmlzjjOWkRoKqCLXrQKeRF5ZoVhTe/view?usp=sharing))** &nbsp;·&nbsp; [Download the .pbix file](your-pbix-link-here)
+> **[▶ Watch the demo](https://github.com/sparapur/Production-and-Financial-Metrics-Dashboard-/blob/main/Dashboard%20project%20(1).mp4)** &nbsp;·&nbsp; [Download the .pbix file](https://github.com/sparapur/Production-and-Financial-Metrics-Dashboard-/blob/main/dashboard%20preliminary.pbix)
 
 ---
 
